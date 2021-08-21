@@ -7,7 +7,8 @@
 #### 3. Read and enter values in app.
 #### 4. After loading must create new file, open it '`config.ahk`'.
 #### 5. Start the game and HOLD your bind key button.
-#### 5.1  Select the ladder, when you run and the character is right in front of the ladder, start holding down the button.
+#### 5.1  Select the ladder, when you run and the character is right in front of the ladder, start holding down the button,
+####      aim the sight slightly above the middle.
  
  
 Additionally:
