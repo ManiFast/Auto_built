@@ -1,0 +1,5 @@
+﻿  Auto_built-v2.2.cpp
+I:\Disk\qwerty\C++\My projects\Auto_built-v2.2\Auto_built-v2.2\Auto_built-v2.2.cpp(38,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+I:\Disk\qwerty\C++\My projects\Auto_built-v2.2\Auto_built-v2.2\Auto_built-v2.2.cpp(51,19): warning C4305: +=: усечение из "double" в "float"
+I:\Disk\qwerty\C++\My projects\Auto_built-v2.2\Auto_built-v2.2\Auto_built-v2.2.cpp(349,46): warning C4305: -=: усечение из "double" в "float"
+  Auto_built-v2.2.vcxproj -> I:\Disk\qwerty\C++\My projects\Auto_built-v2.2\Debug\Auto_built-v2.2.exe
