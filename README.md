@@ -26,4 +26,3 @@ Left Alt = LAlt
 And others:
 Space, LShift, Tab, Enter, Backspace.
 
-![](https://github.com/Stas-inside/Auto_built/blob/main/wallpaperbetter.png)
