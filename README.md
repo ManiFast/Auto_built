@@ -2,6 +2,9 @@
 
 #  
 
+![image](https://github.com/ManiFast/Auto_built/assets/62830326/48542c38-375c-4c2b-9516-95cc2e7f42b7)
+
+
 #### 1. Open folder '`Debug`' and copy file '`Auto_built-v2.2.exe`' to desktop (or enother folder).
 #### 2. Open '`Auto_built-v2.2.exe`'.
 #### 3. Read and enter values in app.
